@@ -7,7 +7,7 @@
 1. `index.html` The Index document for the website.
 2. `/img` The background image file for the website.
 3.  `/css` CSS files for the website.
-4.  `/doc` Folder with the step-by-step file created by me.
+4.  `/doc` Folder with the step-by-step file with screenshots created by me.
 
 You can access to the website using this [link](http://d2nap6o49ug3f9.cloudfront.net/index.html)
 
