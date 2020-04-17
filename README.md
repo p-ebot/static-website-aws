@@ -11,4 +11,4 @@
 
 You can access to the website using this Cloudfront [link](http://d2nap6o49ug3f9.cloudfront.net/index.html)
 
-**NOTE**: The folder `/vendor` it didn't upload because contain the third party files, such as [Bootstrap](https://getbootstrap.com/), [Jquery](https://jquery.com/) and [Fontawesome](https://fontawesome.com/)
+**NOTE**: The folder `/vendor` it didn't upload because contain the third party files, such as [Bootstrap](https://getbootstrap.com/), [Jquery](https://jquery.com/) and [FontAwesome](https://fontawesome.com/)
